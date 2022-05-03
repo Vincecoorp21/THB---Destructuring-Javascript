@@ -37,10 +37,10 @@ let a, b;
 console.log(a);
 console.log(b);
 
-// const cambiarvalor = {(a=3, b=5)=>
+// const cambiarvalor = {(a=3, b=5)} =>{
 //   console.log(a,b)
-
 // }
+// cambiarvalor(a,b);
 
 /***************EJERCICIOS SPREAD/REST*************************/
 // 4. Escribe una función llamada sumEveryOther que pueda recibir cualquier cantidad de números y devuelva la suma de todos los demás argumentos.
